@@ -5,4 +5,4 @@
 - "클래스 101" 플랫폼을 이용하여 데이터 분석에 관한 클래스 수강 후 실습
 
 ## 만든이와 사용권
-[김민서](https://github.com/Opal1031), [박소은](https://github.com/soiawy)과 함께 실습하었고, 모든 프로젝트는 MIT License(이)가 적용됩니다.
+[김민서](https://github.com/Opal1031), [박소은](https://github.com/soiawy)과 함께 실습하였음.
